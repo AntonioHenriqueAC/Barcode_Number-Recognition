@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Barcode_Number-Recognition
+  annotations: 
+    github.com/project-slug: AntonioHenriqueAC/Barcode_Number-Recognition
+spec:
+  type: other
+  owner: AntonioHenriqueAC
+  lifecycle: unknown
